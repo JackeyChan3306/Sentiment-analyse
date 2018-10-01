@@ -1,2 +1,2 @@
 sentiment analyse
-weak-supervision
+weak-supervision with meachine learning

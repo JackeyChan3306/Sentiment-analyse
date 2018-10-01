@@ -215,7 +215,6 @@ def train_lstm(n_symbols, embedding_weights, x_train, y_train, x_test, y_test):
                         mask_zero=True,
                         weights=[embedding_weights],
                         input_length=input_length))
-    # model.add(keras.layers.Flatten())
     model.add(LSTM(output_dim=50,                           #添加LSTM层
                    activation="tanh",
                    ))

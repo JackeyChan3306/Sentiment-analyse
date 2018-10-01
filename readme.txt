@@ -1,4 +1,5 @@
 sentiment analyse
 weak-supervision with meachine learning and rules
 based on rules
-rules changs
+rules changes
+create a branch 
